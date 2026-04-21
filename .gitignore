@@ -1,0 +1,11 @@
+# Firebase Gizli Anahtarı
+firebase-admin-key.json
+
+# Python Sanal Ortam ve Cache Dosyaları
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ESP32 Donanım Gizli Bilgileri
+secrets.h
