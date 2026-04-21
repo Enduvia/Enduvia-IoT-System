@@ -1,6 +1,6 @@
 # 🌍 Enduvia - Gerçek Zamanlı IoT Veri Akış Sistemi
 
-Enduvia; çevresel verileri (sıcaklık, nem ve ışık) donanım seviyesinde toplayan, Firebase bulut altyapısı üzerinden anlık olarak ileten ve kullanıcı dostu bir web arayüzü ile görselleştiren uçtan uca (End-to-End) bir IoT sistemidir.
+Bu Proje; çevresel verileri (sıcaklık, nem ve ışık) donanım seviyesinde toplayan, Firebase bulut altyapısı üzerinden anlık olarak ileten ve kullanıcı dostu bir web arayüzü ile görselleştiren uçtan uca (End-to-End) bir IoT sistemidir.
 
 Bu proje, bir **Elektrik-Elektronik Mühendisi** ve bir **Yönetim Bilişim Sistemleri (YBS)** öğrencisinin disiplinler arası ortak çalışmasıyla, modern IoT standartlarına uygun olarak geliştirilmiştir.
 
